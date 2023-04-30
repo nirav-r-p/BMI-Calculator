@@ -1,16 +1,17 @@
-# bmi_cal_app
+# BMI Calculator App
 
-A new Flutter project.
+This is my first project on flutter.<br>
+In this project I learn about basic thing about flutter such as Stateful widget , Stateless Widget and other Widget.
 
-## Getting Started
+Screen Shorts
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/102569690/235367240-c9ad0f97-4bac-41ab-a842-76c9c4412d56.png" width="300" height="600">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/102569690/235367229-7fe19cb1-d502-4b84-8b3a-feb32ce9a17a.png" width="300" height="600">
+</p>
+
+
+
